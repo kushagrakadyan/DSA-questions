@@ -13,11 +13,13 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kushagrakadyan/DSA-questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kushagrakadyan/DSA-questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kushagrakadyan/DSA-questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kushagrakadyan/DSA-questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -29,6 +31,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kushagrakadyan/DSA-questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kushagrakadyan/DSA-questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -44,4 +47,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kushagrakadyan/DSA-questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kushagrakadyan/DSA-questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 <!---LeetCode Topics End-->
