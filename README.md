@@ -52,4 +52,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kushagrakadyan/DSA-questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/kushagrakadyan/DSA-questions/tree/main/0070-climbing-stairs/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/kushagrakadyan/DSA-questions/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/kushagrakadyan/DSA-questions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
