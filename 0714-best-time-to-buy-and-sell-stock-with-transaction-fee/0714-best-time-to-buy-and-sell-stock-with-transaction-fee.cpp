@@ -12,8 +12,8 @@ public:
             int skip=solve(prices,fee,i+1,1,dp);
             return dp[i][buy]=max(take,skip);
         }
-        int sell=prices[i]-fee+solve(prices,fee,i+1,1,dp);
-        int hold=solve(prices,fee,i+1,0,dp);
+        int hold=prices[i]-fee+solve(prices,fee,i+1,1,dp);
+        int sell=solve(prices,fee,i+1,0,dp);
         return dp[i][buy]=max(sell,hold);
     }
     int maxProfit(vector<int>& prices, int fee) {
