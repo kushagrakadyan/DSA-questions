@@ -77,6 +77,7 @@
 | [0064-minimum-path-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/kushagrakadyan/DSA-questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0120-triangle](https://github.com/kushagrakadyan/DSA-questions/tree/main/0120-triangle/) | Medium |
+| [0132-palindrome-partitioning-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0198-house-robber](https://github.com/kushagrakadyan/DSA-questions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0213-house-robber-ii/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kushagrakadyan/DSA-questions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
@@ -107,4 +108,8 @@
 | ------- | ------- |
 | [0368-largest-divisible-subset](https://github.com/kushagrakadyan/DSA-questions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kushagrakadyan/DSA-questions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 <!---LeetCode Topics End-->
