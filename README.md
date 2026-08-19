@@ -38,6 +38,7 @@
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0085-maximal-rectangle](https://github.com/kushagrakadyan/DSA-questions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0120-triangle](https://github.com/kushagrakadyan/DSA-questions/tree/main/0120-triangle/) | Medium |
@@ -58,6 +59,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/kushagrakadyan/DSA-questions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kushagrakadyan/DSA-questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Linked List
@@ -77,6 +79,7 @@
 | [0063-unique-paths-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/kushagrakadyan/DSA-questions/tree/main/0070-climbing-stairs/) | Easy |
+| [0085-maximal-rectangle](https://github.com/kushagrakadyan/DSA-questions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0120-triangle](https://github.com/kushagrakadyan/DSA-questions/tree/main/0120-triangle/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0198-house-robber](https://github.com/kushagrakadyan/DSA-questions/tree/main/0198-house-robber/) | Medium |
@@ -101,6 +104,7 @@
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0085-maximal-rectangle](https://github.com/kushagrakadyan/DSA-questions/tree/main/0085-maximal-rectangle/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,4 +118,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/kushagrakadyan/DSA-questions/tree/main/0085-maximal-rectangle/) | Hard |
 <!---LeetCode Topics End-->
