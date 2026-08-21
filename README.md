@@ -52,6 +52,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kushagrakadyan/DSA-questions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kushagrakadyan/DSA-questions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kushagrakadyan/DSA-questions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,4 +126,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/kushagrakadyan/DSA-questions/tree/main/0085-maximal-rectangle/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kushagrakadyan/DSA-questions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 <!---LeetCode Topics End-->
