@@ -74,6 +74,7 @@
 | [0062-unique-paths](https://github.com/kushagrakadyan/DSA-questions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/kushagrakadyan/DSA-questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/kushagrakadyan/DSA-questions/tree/main/0368-largest-divisible-subset/) | Medium |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kushagrakadyan/DSA-questions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
