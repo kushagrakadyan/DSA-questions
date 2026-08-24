@@ -20,10 +20,12 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kushagrakadyan/DSA-questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0207-course-schedule](https://github.com/kushagrakadyan/DSA-questions/tree/main/0207-course-schedule/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kushagrakadyan/DSA-questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/kushagrakadyan/DSA-questions/tree/main/0207-course-schedule/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kushagrakadyan/DSA-questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -131,4 +133,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kushagrakadyan/DSA-questions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/kushagrakadyan/DSA-questions/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/kushagrakadyan/DSA-questions/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/kushagrakadyan/DSA-questions/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
