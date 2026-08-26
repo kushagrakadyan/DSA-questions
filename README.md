@@ -21,11 +21,13 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kushagrakadyan/DSA-questions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0200-number-of-islands](https://github.com/kushagrakadyan/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/kushagrakadyan/DSA-questions/tree/main/0207-course-schedule/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kushagrakadyan/DSA-questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/kushagrakadyan/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/kushagrakadyan/DSA-questions/tree/main/0207-course-schedule/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kushagrakadyan/DSA-questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Tree
@@ -46,6 +48,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0120-triangle](https://github.com/kushagrakadyan/DSA-questions/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/kushagrakadyan/DSA-questions/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/kushagrakadyan/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0213-house-robber-ii/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kushagrakadyan/DSA-questions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0312-burst-balloons](https://github.com/kushagrakadyan/DSA-questions/tree/main/0312-burst-balloons/) | Hard |
@@ -113,6 +116,7 @@
 | [0063-unique-paths-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0085-maximal-rectangle](https://github.com/kushagrakadyan/DSA-questions/tree/main/0085-maximal-rectangle/) | Hard |
+| [0200-number-of-islands](https://github.com/kushagrakadyan/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kushagrakadyan/DSA-questions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -147,4 +151,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/kushagrakadyan/DSA-questions/tree/main/0207-course-schedule/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/kushagrakadyan/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
