@@ -31,6 +31,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/kushagrakadyan/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/kushagrakadyan/DSA-questions/tree/main/0207-course-schedule/) | Medium |
+| [0542-01-matrix](https://github.com/kushagrakadyan/DSA-questions/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/kushagrakadyan/DSA-questions/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/kushagrakadyan/DSA-questions/tree/main/0733-flood-fill/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kushagrakadyan/DSA-questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -58,6 +59,7 @@
 | [0312-burst-balloons](https://github.com/kushagrakadyan/DSA-questions/tree/main/0312-burst-balloons/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/kushagrakadyan/DSA-questions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0542-01-matrix](https://github.com/kushagrakadyan/DSA-questions/tree/main/0542-01-matrix/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kushagrakadyan/DSA-questions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0733-flood-fill](https://github.com/kushagrakadyan/DSA-questions/tree/main/0733-flood-fill/) | Easy |
 | [1043-partition-array-for-maximum-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
@@ -103,6 +105,7 @@
 | [0312-burst-balloons](https://github.com/kushagrakadyan/DSA-questions/tree/main/0312-burst-balloons/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/kushagrakadyan/DSA-questions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0542-01-matrix](https://github.com/kushagrakadyan/DSA-questions/tree/main/0542-01-matrix/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kushagrakadyan/DSA-questions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kushagrakadyan/DSA-questions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
@@ -122,6 +125,7 @@
 | [0064-minimum-path-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0085-maximal-rectangle](https://github.com/kushagrakadyan/DSA-questions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0200-number-of-islands](https://github.com/kushagrakadyan/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/kushagrakadyan/DSA-questions/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/kushagrakadyan/DSA-questions/tree/main/0733-flood-fill/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kushagrakadyan/DSA-questions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 ## Greedy
