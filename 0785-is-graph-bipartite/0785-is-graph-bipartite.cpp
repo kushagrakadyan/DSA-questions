@@ -1,12 +1,12 @@
 class Solution {
 public:
-    bool bfs(int node,vector<vector<int>>& graph,vector<int>& vis){
+    bool dfs(int node,vector<vector<int>>& graph,vector<int>& vis){
         for(int neighbour : graph[node]){
             //neighbour ko group(vis) nhi mila 
             if(vis[neighbour]==-1){
                 vis[neighbour]=1-vis[node];
 
-                if(!bfs(neighbour,graph,vis)) return false;
+                if(!dfs(neighbour,graph,vis)) return false;
             }
             //neighbour ko group mila hua hai
             else if(vis[neighbour]==vis[node]){
@@ -22,7 +22,7 @@ public:
         for(int i=0;i<n;i++){
             if(vis[i]==-1){
                     vis[i]=0;
-                    if(!bfs(i,graph,vis)) return false;
+                    if(!dfs(i,graph,vis)) return false;
             }
         }    
         return true;
