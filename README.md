@@ -26,6 +26,7 @@
 | [0207-course-schedule](https://github.com/kushagrakadyan/DSA-questions/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/kushagrakadyan/DSA-questions/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/kushagrakadyan/DSA-questions/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/kushagrakadyan/DSA-questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kushagrakadyan/DSA-questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1020-number-of-enclaves](https://github.com/kushagrakadyan/DSA-questions/tree/main/1020-number-of-enclaves/) | Medium |
 ## Breadth-First Search
@@ -37,6 +38,7 @@
 | [0542-01-matrix](https://github.com/kushagrakadyan/DSA-questions/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/kushagrakadyan/DSA-questions/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/kushagrakadyan/DSA-questions/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/kushagrakadyan/DSA-questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kushagrakadyan/DSA-questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1020-number-of-enclaves](https://github.com/kushagrakadyan/DSA-questions/tree/main/1020-number-of-enclaves/) | Medium |
 ## Binary Tree
@@ -162,6 +164,7 @@
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/kushagrakadyan/DSA-questions/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/kushagrakadyan/DSA-questions/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/kushagrakadyan/DSA-questions/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,5 +179,14 @@
 | [0130-surrounded-regions](https://github.com/kushagrakadyan/DSA-questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/kushagrakadyan/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/kushagrakadyan/DSA-questions/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/kushagrakadyan/DSA-questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/kushagrakadyan/DSA-questions/tree/main/1020-number-of-enclaves/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/kushagrakadyan/DSA-questions/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/kushagrakadyan/DSA-questions/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
