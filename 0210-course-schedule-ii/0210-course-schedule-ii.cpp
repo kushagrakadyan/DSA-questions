@@ -1,86 +1,66 @@
 class Solution {
 public:
+    bool dfs(int src,vector<bool>& vis,vector<vector<int>>& edges,vector<bool>& recpath){
+        vis[src]=true;
+        recpath[src]=true;
+        for(int i=0;i<edges.size();i++){
+            int v=edges[i][0];
+            int u=edges[i][1];
 
-    bool iscycle(int src, vector<bool>& vis,vector<bool>& recpath,vector<vector<int>>& edges) {
-
-        vis[src] = true;
-        recpath[src] = true;
-
-        for(int i = 0; i < edges.size(); i++) {
-
-            int v = edges[i][0];
-            int u = edges[i][1];
-
-            if(u == src) {
-
-                if(!vis[v]) {
-                    if(iscycle(v, vis, recpath, edges)) {
+            if(src==u){
+                if(!vis[v]){
+                    if(dfs(v,vis,edges,recpath)){
                         return true;
                     }
                 }
-                else if(recpath[v]) {
+                else if(recpath[v]){
                     return true;
                 }
+                
             }
         }
-
-        recpath[src] = false;
+        recpath[src]=false;
         return false;
     }
+    void topo(int src,vector<bool>& vis,stack<int>& s,vector<vector<int>>& edges,vector<bool>& recpath) {
+        vis[src]=true;
+        for(int i=0;i<edges.size();i++){
+            int v=edges[i][0];
+            int u=edges[i][1];
 
-    void topo(int src,vector<bool>& vis,stack<int>& s,vector<vector<int>>& edges) {
-
-        vis[src] = true;
-
-        for(int i = 0; i < edges.size(); i++) {
-
-            int v = edges[i][0];
-            int u = edges[i][1];
-
-            if(u == src) {
-
-                if(!vis[v]) {
-                    topo(v, vis, s, edges);
+            if(src==u){
+                if(!vis[v]){
+                    topo(v,vis,s,edges,recpath);
                 }
             }
         }
-
         s.push(src);
     }
 
-    vector<int> findOrder(int numCourses,
-                          vector<vector<int>>& prerequisites) {
-
-        vector<bool> vis(numCourses, false);
-        vector<bool> recpath(numCourses, false);
-
+    vector<int> findOrder(int n,vector<vector<int>>& edges) {
+        vector<bool> vis(n,false);
+        vector<bool> recpath(n,false);
         vector<int> ans;
 
-        for(int i = 0; i < numCourses; i++) {
-
-            if(!vis[i]) {
-
-                if(iscycle(i, vis, recpath, prerequisites)) {
-                    return {};
-                }
+        for(int i=0;i<n;i++){
+            if(!vis[i]){
+                if(dfs(i,vis,edges,recpath)){
+                    return ans;
+                }    
             }
         }
         stack<int> s;
-
-        vis.assign(numCourses, false);
-
-        for(int i = 0; i < numCourses; i++) {
-
-            if(!vis[i]) {
-                topo(i, vis, s, prerequisites);
+        vis.assign(n,false);
+        for(int i=0;i<n;i++){
+            if(!vis[i]){
+                topo(i,vis,s,edges,recpath);
             }
         }
-
-        while(!s.empty()) {
+        while(s.size()>0){
             ans.push_back(s.top());
             s.pop();
         }
-
         return ans;
+    
     }
 };
