@@ -31,7 +31,6 @@ public:
             int cost = val.second.first;
             int stops = val.second.second;
 
-            // At most k stops => at most k+1 flights
             if(stops > k)
                 continue;
 
