@@ -127,6 +127,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kushagrakadyan/DSA-questions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kushagrakadyan/DSA-questions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/kushagrakadyan/DSA-questions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,12 +179,14 @@
 | [0785-is-graph-bipartite](https://github.com/kushagrakadyan/DSA-questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kushagrakadyan/DSA-questions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/kushagrakadyan/DSA-questions/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/kushagrakadyan/DSA-questions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/kushagrakadyan/DSA-questions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/kushagrakadyan/DSA-questions/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/kushagrakadyan/DSA-questions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,4 +223,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kushagrakadyan/DSA-questions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/kushagrakadyan/DSA-questions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/kushagrakadyan/DSA-questions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 <!---LeetCode Topics End-->
