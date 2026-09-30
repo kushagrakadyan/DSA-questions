@@ -32,6 +32,7 @@
 | [0802-find-eventual-safe-states](https://github.com/kushagrakadyan/DSA-questions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kushagrakadyan/DSA-questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1020-number-of-enclaves](https://github.com/kushagrakadyan/DSA-questions/tree/main/1020-number-of-enclaves/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/kushagrakadyan/DSA-questions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kushagrakadyan/DSA-questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1020-number-of-enclaves](https://github.com/kushagrakadyan/DSA-questions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kushagrakadyan/DSA-questions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/kushagrakadyan/DSA-questions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +181,7 @@
 | [0785-is-graph-bipartite](https://github.com/kushagrakadyan/DSA-questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kushagrakadyan/DSA-questions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/kushagrakadyan/DSA-questions/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/kushagrakadyan/DSA-questions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kushagrakadyan/DSA-questions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -199,6 +202,7 @@
 | [0547-number-of-provinces](https://github.com/kushagrakadyan/DSA-questions/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/kushagrakadyan/DSA-questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/kushagrakadyan/DSA-questions/tree/main/1020-number-of-enclaves/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/kushagrakadyan/DSA-questions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Graph Coloring
 | Problem Name | Difficulty |
 | ------- | ------- |
