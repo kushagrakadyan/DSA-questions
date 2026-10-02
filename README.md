@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0721-accounts-merge](https://github.com/kushagrakadyan/DSA-questions/tree/main/0721-accounts-merge/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kushagrakadyan/DSA-questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kushagrakadyan/DSA-questions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Tree
@@ -26,6 +27,7 @@
 | [0207-course-schedule](https://github.com/kushagrakadyan/DSA-questions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/kushagrakadyan/DSA-questions/tree/main/0547-number-of-provinces/) | Medium |
+| [0721-accounts-merge](https://github.com/kushagrakadyan/DSA-questions/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/kushagrakadyan/DSA-questions/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/kushagrakadyan/DSA-questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kushagrakadyan/DSA-questions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -42,6 +44,7 @@
 | [0210-course-schedule-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0542-01-matrix](https://github.com/kushagrakadyan/DSA-questions/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/kushagrakadyan/DSA-questions/tree/main/0547-number-of-provinces/) | Medium |
+| [0721-accounts-merge](https://github.com/kushagrakadyan/DSA-questions/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/kushagrakadyan/DSA-questions/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/kushagrakadyan/DSA-questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kushagrakadyan/DSA-questions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -77,6 +80,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0542-01-matrix](https://github.com/kushagrakadyan/DSA-questions/tree/main/0542-01-matrix/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kushagrakadyan/DSA-questions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0721-accounts-merge](https://github.com/kushagrakadyan/DSA-questions/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/kushagrakadyan/DSA-questions/tree/main/0733-flood-fill/) | Easy |
 | [1020-number-of-enclaves](https://github.com/kushagrakadyan/DSA-questions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
@@ -159,11 +163,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0368-largest-divisible-subset](https://github.com/kushagrakadyan/DSA-questions/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0721-accounts-merge](https://github.com/kushagrakadyan/DSA-questions/tree/main/0721-accounts-merge/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kushagrakadyan/DSA-questions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0721-accounts-merge](https://github.com/kushagrakadyan/DSA-questions/tree/main/0721-accounts-merge/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +206,7 @@
 | [0130-surrounded-regions](https://github.com/kushagrakadyan/DSA-questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/kushagrakadyan/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/kushagrakadyan/DSA-questions/tree/main/0547-number-of-provinces/) | Medium |
+| [0721-accounts-merge](https://github.com/kushagrakadyan/DSA-questions/tree/main/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/kushagrakadyan/DSA-questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/kushagrakadyan/DSA-questions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kushagrakadyan/DSA-questions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
