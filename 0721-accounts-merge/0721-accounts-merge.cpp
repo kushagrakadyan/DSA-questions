@@ -7,7 +7,6 @@ public:
         unordered_map<string, vector<string>> graph;
         unordered_map<string, string> emailToName;
 
-        // Build graph
         for (auto &account : accounts) {
 
             string name = account[0];
@@ -19,7 +18,6 @@ public:
 
                 emailToName[email] = name;
 
-                // Connect first email with current email
                 graph[firstEmail].push_back(email);
                 graph[email].push_back(firstEmail);
             }
@@ -28,7 +26,6 @@ public:
         unordered_set<string> visited;
         vector<vector<string>> ans;
 
-        // DFS for every unvisited email
         for (auto &[email, neighbours] : graph) {
 
             if (visited.count(email))
@@ -38,7 +35,6 @@ public:
 
             dfs(email, graph, visited, component);
 
-            // Emails must be sorted
             sort(component.begin(), component.end());
 
             vector<string> account;
