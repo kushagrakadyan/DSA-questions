@@ -50,8 +50,7 @@ public:
             maxCol = max(maxCol, it[1]);
         }
 
-        // Row: 0 ... maxRow
-        // Col: maxRow+1 ... maxRow+1+maxCol
+        
 
         DisjointSet ds(maxRow + maxCol + 1);
 
