@@ -35,35 +35,49 @@ public:
         }
     }
 };
+
 class Solution {
 public:
     int removeStones(vector<vector<int>>& stones) {
+
         int n = stones.size();
 
-        int OFFSET = 10001;
-        int MAXN = 20005;
+        int maxRow = 0;
+        int maxCol = 0;
 
-        DisjointSet ds(MAXN);
-
-        unordered_set<int> nodes;
-
-        for (auto &stone : stones) {
-            int row = stone[0];
-            int col = stone[1] + OFFSET;
-
-            ds.unionBySize(row, col);
-
-            nodes.insert(row);
-            nodes.insert(col);
+        for (auto it : stones) {
+            maxRow = max(maxRow, it[0]);
+            maxCol = max(maxCol, it[1]);
         }
 
-        int components = 0;
+        // Row: 0 ... maxRow
+        // Col: maxRow+1 ... maxRow+1+maxCol
 
-        for (int node : nodes) {
-            if (ds.findParent(node) == node)
-                components++;
+        DisjointSet ds(maxRow + maxCol + 1);
+
+        unordered_map<int, int> stoneNodes;
+
+        for (auto it : stones) {
+
+            int nodeRow = it[0];
+
+            int nodeCol = it[1] + maxRow + 1;
+
+            ds.unionBySize(nodeRow, nodeCol);
+
+            stoneNodes[nodeRow] = 1;
+            stoneNodes[nodeCol] = 1;
         }
 
-        return n - components;
+        int cnt = 0;
+
+        for (auto it : stoneNodes) {
+
+            if (ds.findParent(it.first) == it.first) {
+                cnt++;
+            }
+        }
+
+        return n - cnt;
     }
 };
