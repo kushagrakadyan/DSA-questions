@@ -8,6 +8,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0721-accounts-merge](https://github.com/kushagrakadyan/DSA-questions/tree/main/0721-accounts-merge/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kushagrakadyan/DSA-questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/kushagrakadyan/DSA-questions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kushagrakadyan/DSA-questions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -34,6 +35,7 @@
 | [0802-find-eventual-safe-states](https://github.com/kushagrakadyan/DSA-questions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0827-making-a-large-island](https://github.com/kushagrakadyan/DSA-questions/tree/main/0827-making-a-large-island/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kushagrakadyan/DSA-questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/kushagrakadyan/DSA-questions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/kushagrakadyan/DSA-questions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kushagrakadyan/DSA-questions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Breadth-First Search
@@ -191,6 +193,7 @@
 | [0785-is-graph-bipartite](https://github.com/kushagrakadyan/DSA-questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kushagrakadyan/DSA-questions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/kushagrakadyan/DSA-questions/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/kushagrakadyan/DSA-questions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kushagrakadyan/DSA-questions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kushagrakadyan/DSA-questions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Topological Sort
@@ -213,6 +216,7 @@
 | [0721-accounts-merge](https://github.com/kushagrakadyan/DSA-questions/tree/main/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/kushagrakadyan/DSA-questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0827-making-a-large-island](https://github.com/kushagrakadyan/DSA-questions/tree/main/0827-making-a-large-island/) | Hard |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/kushagrakadyan/DSA-questions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/kushagrakadyan/DSA-questions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kushagrakadyan/DSA-questions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Graph Coloring
@@ -223,6 +227,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/kushagrakadyan/DSA-questions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/kushagrakadyan/DSA-questions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
