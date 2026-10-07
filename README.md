@@ -82,6 +82,7 @@
 | [0312-burst-balloons](https://github.com/kushagrakadyan/DSA-questions/tree/main/0312-burst-balloons/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/kushagrakadyan/DSA-questions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/kushagrakadyan/DSA-questions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0542-01-matrix](https://github.com/kushagrakadyan/DSA-questions/tree/main/0542-01-matrix/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kushagrakadyan/DSA-questions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0721-accounts-merge](https://github.com/kushagrakadyan/DSA-questions/tree/main/0721-accounts-merge/) | Medium |
