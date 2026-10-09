@@ -7,6 +7,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0242-valid-anagram](https://github.com/kushagrakadyan/DSA-questions/tree/main/0242-valid-anagram/) | Easy |
 | [0721-accounts-merge](https://github.com/kushagrakadyan/DSA-questions/tree/main/0721-accounts-merge/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kushagrakadyan/DSA-questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/kushagrakadyan/DSA-questions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
@@ -173,6 +174,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/kushagrakadyan/DSA-questions/tree/main/0242-valid-anagram/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/kushagrakadyan/DSA-questions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0721-accounts-merge](https://github.com/kushagrakadyan/DSA-questions/tree/main/0721-accounts-merge/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kushagrakadyan/DSA-questions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -181,6 +183,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kushagrakadyan/DSA-questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0132-palindrome-partitioning-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0242-valid-anagram](https://github.com/kushagrakadyan/DSA-questions/tree/main/0242-valid-anagram/) | Easy |
 | [0721-accounts-merge](https://github.com/kushagrakadyan/DSA-questions/tree/main/0721-accounts-merge/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/kushagrakadyan/DSA-questions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Monotonic Stack
