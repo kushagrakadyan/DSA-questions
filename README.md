@@ -15,6 +15,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/kushagrakadyan/DSA-questions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [2540-minimum-common-value](https://github.com/kushagrakadyan/DSA-questions/tree/main/2540-minimum-common-value/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kushagrakadyan/DSA-questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kushagrakadyan/DSA-questions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -106,6 +107,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/kushagrakadyan/DSA-questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kushagrakadyan/DSA-questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kushagrakadyan/DSA-questions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kushagrakadyan/DSA-questions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -190,6 +192,7 @@
 | [0368-largest-divisible-subset](https://github.com/kushagrakadyan/DSA-questions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0721-accounts-merge](https://github.com/kushagrakadyan/DSA-questions/tree/main/0721-accounts-merge/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kushagrakadyan/DSA-questions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
