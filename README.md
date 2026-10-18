@@ -7,6 +7,7 @@
 | [0049-group-anagrams](https://github.com/kushagrakadyan/DSA-questions/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0169-majority-element](https://github.com/kushagrakadyan/DSA-questions/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/kushagrakadyan/DSA-questions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/kushagrakadyan/DSA-questions/tree/main/0268-missing-number/) | Easy |
@@ -83,6 +84,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0120-triangle](https://github.com/kushagrakadyan/DSA-questions/tree/main/0120-triangle/) | Medium |
 | [0130-surrounded-regions](https://github.com/kushagrakadyan/DSA-questions/tree/main/0130-surrounded-regions/) | Medium |
+| [0169-majority-element](https://github.com/kushagrakadyan/DSA-questions/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/kushagrakadyan/DSA-questions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/kushagrakadyan/DSA-questions/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0213-house-robber-ii/) | Medium |
@@ -114,6 +116,7 @@
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0169-majority-element](https://github.com/kushagrakadyan/DSA-questions/tree/main/0169-majority-element/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +190,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/kushagrakadyan/DSA-questions/tree/main/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/kushagrakadyan/DSA-questions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/kushagrakadyan/DSA-questions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/kushagrakadyan/DSA-questions/tree/main/0268-missing-number/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/kushagrakadyan/DSA-questions/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -309,4 +313,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/kushagrakadyan/DSA-questions/tree/main/0268-missing-number/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/kushagrakadyan/DSA-questions/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/kushagrakadyan/DSA-questions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
