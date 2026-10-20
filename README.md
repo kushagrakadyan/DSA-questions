@@ -106,6 +106,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kushagrakadyan/DSA-questions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kushagrakadyan/DSA-questions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kushagrakadyan/DSA-questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kushagrakadyan/DSA-questions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2540-minimum-common-value](https://github.com/kushagrakadyan/DSA-questions/tree/main/2540-minimum-common-value/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kushagrakadyan/DSA-questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kushagrakadyan/DSA-questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -215,6 +216,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kushagrakadyan/DSA-questions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kushagrakadyan/DSA-questions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -297,6 +299,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kushagrakadyan/DSA-questions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2540-minimum-common-value](https://github.com/kushagrakadyan/DSA-questions/tree/main/2540-minimum-common-value/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
