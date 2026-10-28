@@ -84,6 +84,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0118-pascals-triangle](https://github.com/kushagrakadyan/DSA-questions/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/kushagrakadyan/DSA-questions/tree/main/0120-triangle/) | Medium |
 | [0130-surrounded-regions](https://github.com/kushagrakadyan/DSA-questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0169-majority-element](https://github.com/kushagrakadyan/DSA-questions/tree/main/0169-majority-element/) | Easy |
@@ -151,6 +152,7 @@
 | [0070-climbing-stairs](https://github.com/kushagrakadyan/DSA-questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/kushagrakadyan/DSA-questions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/kushagrakadyan/DSA-questions/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/kushagrakadyan/DSA-questions/tree/main/0120-triangle/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0198-house-robber](https://github.com/kushagrakadyan/DSA-questions/tree/main/0198-house-robber/) | Medium |
