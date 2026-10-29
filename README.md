@@ -76,6 +76,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/kushagrakadyan/DSA-questions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/kushagrakadyan/DSA-questions/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/kushagrakadyan/DSA-questions/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0063-unique-paths-ii/) | Medium |
@@ -137,6 +138,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/kushagrakadyan/DSA-questions/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/kushagrakadyan/DSA-questions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/kushagrakadyan/DSA-questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/kushagrakadyan/DSA-questions/tree/main/0268-missing-number/) | Easy |
@@ -179,6 +181,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/kushagrakadyan/DSA-questions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/kushagrakadyan/DSA-questions/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/0064-minimum-path-sum/) | Medium |
