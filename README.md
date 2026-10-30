@@ -4,6 +4,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/kushagrakadyan/DSA-questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/kushagrakadyan/DSA-questions/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -76,6 +77,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/kushagrakadyan/DSA-questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/kushagrakadyan/DSA-questions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/kushagrakadyan/DSA-questions/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/kushagrakadyan/DSA-questions/tree/main/0054-spiral-matrix/) | Medium |
