@@ -100,6 +100,7 @@
 | [0312-burst-balloons](https://github.com/kushagrakadyan/DSA-questions/tree/main/0312-burst-balloons/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/kushagrakadyan/DSA-questions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kushagrakadyan/DSA-questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/kushagrakadyan/DSA-questions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0542-01-matrix](https://github.com/kushagrakadyan/DSA-questions/tree/main/0542-01-matrix/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kushagrakadyan/DSA-questions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -145,6 +146,7 @@
 | [0070-climbing-stairs](https://github.com/kushagrakadyan/DSA-questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/kushagrakadyan/DSA-questions/tree/main/0268-missing-number/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/kushagrakadyan/DSA-questions/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kushagrakadyan/DSA-questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [2409-count-days-spent-together](https://github.com/kushagrakadyan/DSA-questions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kushagrakadyan/DSA-questions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Dynamic Programming
