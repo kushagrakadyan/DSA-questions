@@ -101,6 +101,7 @@
 | [0368-largest-divisible-subset](https://github.com/kushagrakadyan/DSA-questions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kushagrakadyan/DSA-questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/kushagrakadyan/DSA-questions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0542-01-matrix](https://github.com/kushagrakadyan/DSA-questions/tree/main/0542-01-matrix/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kushagrakadyan/DSA-questions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -147,6 +148,7 @@
 | [0268-missing-number](https://github.com/kushagrakadyan/DSA-questions/tree/main/0268-missing-number/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/kushagrakadyan/DSA-questions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kushagrakadyan/DSA-questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [2409-count-days-spent-together](https://github.com/kushagrakadyan/DSA-questions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kushagrakadyan/DSA-questions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Dynamic Programming
@@ -210,6 +212,7 @@
 | [0242-valid-anagram](https://github.com/kushagrakadyan/DSA-questions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/kushagrakadyan/DSA-questions/tree/main/0268-missing-number/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/kushagrakadyan/DSA-questions/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0721-accounts-merge](https://github.com/kushagrakadyan/DSA-questions/tree/main/0721-accounts-merge/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kushagrakadyan/DSA-questions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kushagrakadyan/DSA-questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
