@@ -16,6 +16,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kushagrakadyan/DSA-questions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/kushagrakadyan/DSA-questions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [2540-minimum-common-value](https://github.com/kushagrakadyan/DSA-questions/tree/main/2540-minimum-common-value/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/kushagrakadyan/DSA-questions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kushagrakadyan/DSA-questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kushagrakadyan/DSA-questions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -118,6 +119,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/kushagrakadyan/DSA-questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushagrakadyan/DSA-questions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2540-minimum-common-value](https://github.com/kushagrakadyan/DSA-questions/tree/main/2540-minimum-common-value/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/kushagrakadyan/DSA-questions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kushagrakadyan/DSA-questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kushagrakadyan/DSA-questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kushagrakadyan/DSA-questions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -222,6 +224,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kushagrakadyan/DSA-questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kushagrakadyan/DSA-questions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kushagrakadyan/DSA-questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/kushagrakadyan/DSA-questions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -318,6 +321,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/kushagrakadyan/DSA-questions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kushagrakadyan/DSA-questions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
