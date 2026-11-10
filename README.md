@@ -130,6 +130,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kushagrakadyan/DSA-questions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kushagrakadyan/DSA-questions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kushagrakadyan/DSA-questions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -188,6 +189,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kushagrakadyan/DSA-questions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kushagrakadyan/DSA-questions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kushagrakadyan/DSA-questions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
