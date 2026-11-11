@@ -163,6 +163,7 @@
 | [2409-count-days-spent-together](https://github.com/kushagrakadyan/DSA-questions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kushagrakadyan/DSA-questions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kushagrakadyan/DSA-questions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/kushagrakadyan/DSA-questions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +220,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kushagrakadyan/DSA-questions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/kushagrakadyan/DSA-questions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
