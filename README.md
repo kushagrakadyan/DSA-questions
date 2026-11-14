@@ -81,6 +81,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kushagrakadyan/DSA-questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0041-first-missing-positive](https://github.com/kushagrakadyan/DSA-questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/kushagrakadyan/DSA-questions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/kushagrakadyan/DSA-questions/tree/main/0049-group-anagrams/) | Medium |
@@ -137,6 +138,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kushagrakadyan/DSA-questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushagrakadyan/DSA-questions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0169-majority-element](https://github.com/kushagrakadyan/DSA-questions/tree/main/0169-majority-element/) | Easy |
@@ -353,6 +355,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kushagrakadyan/DSA-questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0268-missing-number](https://github.com/kushagrakadyan/DSA-questions/tree/main/0268-missing-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kushagrakadyan/DSA-questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kushagrakadyan/DSA-questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
