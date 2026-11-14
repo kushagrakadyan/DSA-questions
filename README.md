@@ -129,6 +129,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kushagrakadyan/DSA-questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kushagrakadyan/DSA-questions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kushagrakadyan/DSA-questions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/kushagrakadyan/DSA-questions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kushagrakadyan/DSA-questions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -337,6 +338,7 @@
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/kushagrakadyan/DSA-questions/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/kushagrakadyan/DSA-questions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kushagrakadyan/DSA-questions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -380,4 +382,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kushagrakadyan/DSA-questions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/kushagrakadyan/DSA-questions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
