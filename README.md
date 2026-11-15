@@ -119,6 +119,7 @@
 | [1267-count-servers-that-communicate](https://github.com/kushagrakadyan/DSA-questions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kushagrakadyan/DSA-questions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kushagrakadyan/DSA-questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kushagrakadyan/DSA-questions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kushagrakadyan/DSA-questions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/kushagrakadyan/DSA-questions/tree/main/1882-process-tasks-using-servers/) | Medium |
@@ -164,6 +165,7 @@
 | [0368-largest-divisible-subset](https://github.com/kushagrakadyan/DSA-questions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kushagrakadyan/DSA-questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2409-count-days-spent-together](https://github.com/kushagrakadyan/DSA-questions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kushagrakadyan/DSA-questions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kushagrakadyan/DSA-questions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -191,6 +193,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/kushagrakadyan/DSA-questions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kushagrakadyan/DSA-questions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kushagrakadyan/DSA-questions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kushagrakadyan/DSA-questions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kushagrakadyan/DSA-questions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -388,5 +391,6 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/kushagrakadyan/DSA-questions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
