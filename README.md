@@ -252,6 +252,7 @@
 | [0242-valid-anagram](https://github.com/kushagrakadyan/DSA-questions/tree/main/0242-valid-anagram/) | Easy |
 | [0721-accounts-merge](https://github.com/kushagrakadyan/DSA-questions/tree/main/0721-accounts-merge/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/kushagrakadyan/DSA-questions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kushagrakadyan/DSA-questions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/kushagrakadyan/DSA-questions/tree/main/2409-count-days-spent-together/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -263,6 +264,7 @@
 | [0054-spiral-matrix](https://github.com/kushagrakadyan/DSA-questions/tree/main/0054-spiral-matrix/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kushagrakadyan/DSA-questions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kushagrakadyan/DSA-questions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kushagrakadyan/DSA-questions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kushagrakadyan/DSA-questions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
