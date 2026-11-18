@@ -254,6 +254,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/kushagrakadyan/DSA-questions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kushagrakadyan/DSA-questions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/kushagrakadyan/DSA-questions/tree/main/2409-count-days-spent-together/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kushagrakadyan/DSA-questions/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
