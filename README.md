@@ -130,6 +130,7 @@
 | [2747-count-zero-request-servers](https://github.com/kushagrakadyan/DSA-questions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kushagrakadyan/DSA-questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kushagrakadyan/DSA-questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kushagrakadyan/DSA-questions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kushagrakadyan/DSA-questions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kushagrakadyan/DSA-questions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/kushagrakadyan/DSA-questions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -197,6 +198,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kushagrakadyan/DSA-questions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kushagrakadyan/DSA-questions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kushagrakadyan/DSA-questions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kushagrakadyan/DSA-questions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Memoization
@@ -245,6 +247,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/kushagrakadyan/DSA-questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/kushagrakadyan/DSA-questions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/kushagrakadyan/DSA-questions/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kushagrakadyan/DSA-questions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## String
 | Problem Name | Difficulty |
