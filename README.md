@@ -22,6 +22,7 @@
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kushagrakadyan/DSA-questions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kushagrakadyan/DSA-questions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/kushagrakadyan/DSA-questions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +144,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kushagrakadyan/DSA-questions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/kushagrakadyan/DSA-questions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kushagrakadyan/DSA-questions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/kushagrakadyan/DSA-questions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,6 +384,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kushagrakadyan/DSA-questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kushagrakadyan/DSA-questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/kushagrakadyan/DSA-questions/tree/main/2540-minimum-common-value/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/kushagrakadyan/DSA-questions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -416,4 +419,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/kushagrakadyan/DSA-questions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/kushagrakadyan/DSA-questions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/kushagrakadyan/DSA-questions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/kushagrakadyan/DSA-questions/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
